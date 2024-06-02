@@ -4,7 +4,7 @@
 ## Olá Sou Diogo e Web Development!
 
 - 🔭 Hoje estou trabalhando em Front-End
-- 📫 Contate-me pelo meu Email: DiogoGSsilva@hotmail.com
+
 
 <div style="display: inline_block"><br>
   
