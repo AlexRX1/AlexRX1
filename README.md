@@ -5,7 +5,7 @@
 
 - 🔭 Hoje estou trabalhando em Front-End
  <br>
-
+ Desenvolvedor na LPK Digital Solutions
 
 <div style="display: inline_block"><br>
   
