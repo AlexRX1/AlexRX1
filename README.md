@@ -3,7 +3,7 @@
 
 ## Olá Sou Diogo e Web Development!
 
-- 🔭 Hoje estou trabalhando em desenvolvimento FullStack
+- 🔭 Hoje estou trabalhando em desenvolvimento Back-end
  <br>
  Desenvolvedor na LPK Digital Solutions
 
