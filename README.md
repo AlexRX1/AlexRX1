@@ -4,6 +4,7 @@
 ## Olá Sou Diogo 
 
 - 🔭 Hoje estou trabalhando em desenvolvimento Back-end
+- Desenvolvedor na Strutural Comércio
  <br>
  
 
