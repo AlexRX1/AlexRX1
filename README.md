@@ -1,10 +1,11 @@
 
 
 
-## Olá Sou Diogo 
+## Olá Sou Diogo 👋
 
-- 🔭 Hoje estou trabalhando em desenvolvimento Back-end
-- Desenvolvedor na Strutural Comércio
+Atualmente trabalhando com:
+
+Desenvolvimento no FlutterFlow, Automações com n8n e Sistemas de negócios no Odoo
  <br>
  
 
